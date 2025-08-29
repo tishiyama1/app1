@@ -1,0 +1,22 @@
+# Node.js のモジュール
+node_modules/
+
+# 環境変数ファイル
+.env
+
+# ログ
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OSごとの余計なファイル
+.DS_Store
+Thumbs.db
+
+# ビルド成果物
+dist/
+build/
+out/
+
+# VS Code 設定
+.vscode/
