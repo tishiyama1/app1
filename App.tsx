@@ -1,7 +1,7 @@
 import { useState } from 'react';
-import { Tabs, TabsContent, TabsList, TabsTrigger } from '../components/ui/tabs';
-import NumerologyCalculator from '../components/NumerologyCalculator';
-import NumerologyGuide from '../components/NumerologyGuide';
+import { Tabs, TabsContent, TabsList, TabsTrigger } from './components/ui/tabs';
+import NumerologyCalculator from './components/NumerologyCalculator';
+import NumerologyGuide from './components/NumerologyGuide';
 import { Calculator, BookOpen, Star } from 'lucide-react';
 
 export default function App() {
